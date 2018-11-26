@@ -1,4 +1,4 @@
-# Salem
+# Elm Sailing Game
 
 A sailing game in [Elm](http://elm-lang.org/).
 
